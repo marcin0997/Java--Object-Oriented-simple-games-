@@ -30,7 +30,7 @@ import javax.swing.JFrame;
 
 /**
  * klasa abstrakcyjna do losowania nowego elementu
- * @author Kacper Kluge
+ * @author Marcin Kubiak
  */
 public class check_time {
 
