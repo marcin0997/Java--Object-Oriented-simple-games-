@@ -28,7 +28,7 @@ import org.omg.SendingContext.RunTime;
 
 /**
  * Glowny ekran gry
- * @author Kacper Kluge
+ * @author Marcin Kubiak
  */
 
 public class Healthy_nutrition_simulation extends JFrame implements KeyListener 
